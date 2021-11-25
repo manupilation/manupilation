@@ -1,4 +1,4 @@
-## Olá meu nome é Emanoel Mattos Ribeiro!
+## Olá, meu nome é Emanoel Mattos Ribeiro!
 
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
@@ -42,7 +42,6 @@
   <a href="https://www.linkedin.com/in/emanoel-mattos-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="mailto:emanoelmattos13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/manou.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 
