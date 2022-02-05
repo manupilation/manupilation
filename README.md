@@ -44,4 +44,10 @@
   <a href="https://www.instagram.com/manou.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+
+<div align="center" >
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManooVala&theme=tokyonight"/>
+</div>
+
 
