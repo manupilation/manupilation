@@ -20,7 +20,7 @@
 
 ---
 
-### Principais linguagens, ferramentas e práticas de devops:
+### Principais linguagens, ferramentas e práticas de devops :
 
 <div>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
@@ -34,7 +34,7 @@
 
 ---
 
-### Tecnologias que uso para Front-end e estilização,:
+### Tecnologias que uso para Front-end e estilização :
 
 <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -47,7 +47,7 @@
 
 ---
 
-### Tecnologias que uso para Back-end e banco de dados:
+### Tecnologias que uso para Back-end e banco de dados :
 
 <div>
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -58,7 +58,7 @@
 
 ---
 
-### Ferramentas de autogestão e Q.A.:
+### Ferramentas de autogestão e Q.A. :
 
 <div>
   <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
