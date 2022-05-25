@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo TypeScript, MongoDb e UX/UI</li>
+    <li>- 🌱 Aprendendo Python e UX/UI</li>
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 😄 Pronomes: [Ele/D'ele]</li>
     <li>- ⚡ Fun fact: Amo calopsitas, e quero ter uma chamada Liyue.</li>
