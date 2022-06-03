@@ -20,7 +20,7 @@
 
 ---
 
-### Principais linguagens, ferramentas e práticas de devops :
+### Principais linguagens, ferramentas e versionamento :
 
 <div>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
