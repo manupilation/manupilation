@@ -8,7 +8,7 @@
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 😄 Pronomes: [Ele/D'ele]</li>
     <li>- ⚡ Fun fact: Amo calopsitas, e quero ter uma chamada Liyue.</li>
-    <a href="https://www.codewars.com/users/Manoo-vala/badges/micro" target="_blank">Code Wars!</a>
+    <img src="https://www.codewars.com/users/Manoo-vala/badges/micro" />
   </div>
 </div>
 
