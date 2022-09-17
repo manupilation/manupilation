@@ -1,10 +1,8 @@
 ## Olá, meu nome é Emanoel Mattos Ribeiro!
-<img align="right" src="https://www.codewars.com/users/Manoo-vala/badges/large" /><br><div align="center">
-<img align='right' height="350em" width="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManooVala&theme=tokyonight"/>
+<img align="right" src="https://www.codewars.com/users/Manoo-vala/badges/large" /><br>
 
-
-<div margin="20px 0" align="center">
-<!--   <img height="200px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
+<div align="center">
+<!--   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
   <div align="left" style="display: inline_block">
     <li>- 🔭 Estudei Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 Aprendendo UX/UI</li>
@@ -17,8 +15,8 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manupilation&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manupilation&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---
@@ -82,4 +80,9 @@
   <a href="https://www.instagram.com/manou.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+
+<div align="center" >
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManooVala&theme=tokyonight"/>
+</div>
 
