@@ -1,5 +1,5 @@
 ## Olá, meu nome é Emanoel Mattos Ribeiro!
-<a href="https://www.codewars.com/users/manupilation">
+<a href="https://www.codewars.com/users/manupilation" target="_blank">
   <img align="right" src="https://www.codewars.com/users/manupilation/badges/large" />
 </a>
  <br>
