@@ -1,14 +1,12 @@
 ## Olá, meu nome é Emanoel Mattos Ribeiro!
-<a href="https://www.codewars.com/users/manupilation" target="_blank">
-  <img align="right" src="https://www.codewars.com/users/manupilation/badges/large" />
-</a>
- <br>
  
 
 <div align="center">
-<!--   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" /> -->
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Estudei Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
+    <a href="https://www.codewars.com/users/manupilation" target="_blank" rel="noopener">
+      <img align="right" src="https://www.codewars.com/users/manupilation/badges/large" />
+    </a>
+    <li>- 🔭 Estudei Desenvolvimento de Software na <a href="https://betrybe.com" target="_blank" rel="noopener">Trybe</a></li>
     <li>- 🌱 Aprendendo UX/UI</li>
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 😄 Pronomes: [Ele/D'ele]</li>
