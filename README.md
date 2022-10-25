@@ -85,6 +85,6 @@
 ---
 
 <div align="center" >
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManooVala&theme=tokyonight"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=manupilation&theme=tokyonight"/>
 </div>
 
