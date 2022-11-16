@@ -17,8 +17,9 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manupilation&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manupilation&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manupilation&theme=blue-green&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&theme=blue-green&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
 
 ---
@@ -35,8 +36,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
-  <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
+  <img alt="Testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
 </div>
 
 ---
@@ -45,9 +45,15 @@
 
 <div>
   <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
+  <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
+  <img alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon">
 </div>
 
 ---
@@ -75,9 +81,4 @@
   <a href="https://www.instagram.com/manou.exe/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
----
-
-<div align="center" >
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=manupilation&theme=tokyonight"/>
-</div>
 
