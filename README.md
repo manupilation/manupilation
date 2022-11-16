@@ -6,7 +6,7 @@
     <a href="https://www.codewars.com/users/manupilation" target="_blank" rel="noopener">
       <img align="right" src="https://www.codewars.com/users/manupilation/badges/large" />
     </a>
-    <li>- 🔭 Estudei Desenvolvimento de Software na <a href="https://betrybe.com" target="_blank" rel="noopener">Trybe</a></li>
+    <li>- 🔭 Estudei desenvolvimento de Software / Web <a href="https://betrybe.com" target="_blank" rel="noopener">Trybe</a></li>
     <li>- 🌱 Aprendendo UX/UI</li>
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 😄 Pronomes: [Ele/D'ele]</li>
@@ -23,13 +23,12 @@
 
 ---
 
-### Principais linguagens, ferramentas e versionamento :
+### Principais linguagens, ferramentas e operação de sistema :
 
 <div>
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
