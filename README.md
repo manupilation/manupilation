@@ -17,9 +17,8 @@
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manupilation&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=manupilation&theme=blue-green&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&theme=blue-green&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupilation&theme=blue-green&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&layout=compact"/>
 </div>
 
 ---
