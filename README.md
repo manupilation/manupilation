@@ -7,7 +7,7 @@
       <img align="right" src="https://www.codewars.com/users/manupilation/badges/large" />
     </a>
     <li>- 🔭 Estudei desenvolvimento de Software / Web <a href="https://betrybe.com" target="_blank" rel="noopener">Trybe</a></li>
-    <li>- 🌱 Aprendendo UX/UI</li>
+    <li>- 🌱 Aprendendo Java</li>
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 😄 Pronomes: [Ele/D'ele]</li>
     <li>- 🐦 Fun fact: Amo calopsitas, e quero ter uma chamada Liyue.</li>
