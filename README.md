@@ -10,6 +10,7 @@
     <li>- 🌱 Aprendendo Java</li>
     <li>- 💬 Me pergunte sobre: Quase tudo, mas principalmente filosofias e nerd content.</li>
     <li>- 🐦 Fun fact: Amo calopsitas, e quero ter uma chamada Liyue.</li>
+    <li>- Visite meu <a href="https://manupilation-github-io.vercel.app/">Portfólio</a>! </li>
   </div>
 </div>
 
